@@ -1,0 +1,85 @@
+body{
+    text-align: center;
+    background-image: url("photo.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;  
+  background-size: cover;
+}
+#word{
+    text-align: center;
+    color:rgb(20, 212, 100);
+    font-family: fantasy;
+    font-style: oblique;
+    font-weight:500;
+    text-decoration: wavy;
+}
+#btn{
+    background-color:green;
+    color: white;
+    border-radius: 45%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#count{
+    font-weight:900;
+    font-size:larger;
+    color: brown;
+    border-radius: 100%;
+    background-color: rgb(226, 195, 43);
+}
+label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(42, 165, 114);
+    font-weight: 350;
+}
+input{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom:20px ;
+    background-color: #cadcd8;
+    color:hsl(80, 85%, 15%);
+    font-family:sans-serif;
+    font-weight:bolder;
+    font-size:25px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  
+}
+#correct{
+    color: greenyellow;
+}
+#incorrect{
+    color: red;
+}
+#playagain{
+    text-align: center;
+}
+#won{
+    margin-top: 200px;
+    text-align: center;
+    color: #21ea13;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight:700;
+    text-decoration: wavy;
+}
+#lose{
+    margin-top: 200px;
+    text-align: center;
+    color:red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight:700;
+    text-decoration: wavy;
+}
+#pbtn{
+    background-color:#800037;
+    color: white;
+    border-radius: 45%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
